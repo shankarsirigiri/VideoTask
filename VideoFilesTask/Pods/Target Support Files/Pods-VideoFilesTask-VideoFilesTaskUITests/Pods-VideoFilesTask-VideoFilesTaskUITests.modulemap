@@ -1,0 +1,6 @@
+framework module Pods_VideoFilesTask_VideoFilesTaskUITests {
+  umbrella header "Pods-VideoFilesTask-VideoFilesTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
